@@ -1,0 +1,12 @@
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\SistemaInventario\SistemaInventario.Utilidades\bin\Debug\net7.0\SistemaInventario.Utilidades.deps.json
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\SistemaInventario\SistemaInventario.Utilidades\bin\Debug\net7.0\SistemaInventario.Utilidades.dll
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\SistemaInventario\SistemaInventario.Utilidades\bin\Debug\net7.0\SistemaInventario.Utilidades.pdb
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.csproj.AssemblyReference.cache
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.AssemblyInfoInputs.cache
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.AssemblyInfo.cs
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.dll
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\refint\SistemaInventario.Utilidades.dll
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\SistemaInventario.Utilidades.pdb
+C:\Users\nesto\Dropbox\PROGRAMACION\Udemy_.Net_6\SistemaInventario\SistemaInventario.Utilidades\obj\Debug\net7.0\ref\SistemaInventario.Utilidades.dll
