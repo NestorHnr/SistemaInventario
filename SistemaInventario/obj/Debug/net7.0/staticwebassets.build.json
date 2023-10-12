@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jBVrTcVFtPVJqKc8p8DyNfr1lvoXFcgFVIsvJldQPzI=",
+  "Hash": "o7fVCDt4rC3HT4M3KFnwt+utjFiooWbWWgp9mlihGF8=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1120,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bodega.js"
+    },
+    {
+      "Identity": "C:\\Users\\nesto\\Dropbox\\PROGRAMACION\\Udemy_.Net_6\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\categoria.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nesto\\Dropbox\\PROGRAMACION\\Udemy_.Net_6\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/categoria.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\categoria.js"
     },
     {
       "Identity": "C:\\Users\\nesto\\Dropbox\\PROGRAMACION\\Udemy_.Net_6\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",
